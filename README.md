@@ -1,3 +1,4 @@
+<img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/8bd5abb5-edc0-49b9-b4e4-af7a260950e2" />
 # 📊 Stock Market Analysis using Python
 
 ---
@@ -71,19 +72,23 @@ Time Period: 2020 – 2026
 
 ### 📈 Price Comparison
 
-(Add image here)
+<img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/19bfc568-b7a6-487a-9a38-dc196731f5f0" />
+
 
 ### 📊 Normalized Performance
+<img width="1200" height="600" alt="figure_2" src="https://github.com/user-attachments/assets/1dceea61-74e3-42a1-a8c9-d19080438314" />
 
-(Add image here)
 
 ### 📉 Volatility Analysis
 
-(Add image here)
+<img width="1200" height="600" alt="figure_3" src="https://github.com/user-attachments/assets/738a92ef-2c4d-4779-8575-d27d7a040ac4" />
+
 
 ### 🔥 Correlation Heatmap
 
-(Add image here)
+<img width="800" height="600" alt="Figure_5" src="https://github.com/user-attachments/assets/a052908f-931f-4d2f-8bdd-0553d65d78e7" />
+<img width="1200" height="600" alt="Figure_4" src="https://github.com/user-attachments/assets/c11ecf15-3acf-429e-a7ad-31ddf310c44a" />
+
 
 ---
 
