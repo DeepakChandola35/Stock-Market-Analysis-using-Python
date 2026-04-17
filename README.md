@@ -1,4 +1,3 @@
-<img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/8bd5abb5-edc0-49b9-b4e4-af7a260950e2" />
 # 📊 Stock Market Analysis using Python
 
 ---
